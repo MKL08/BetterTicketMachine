@@ -18,3 +18,4 @@ How to start this project: Create one or more TicketMachine objects.
 48.The feature is to draw the shape when its visible.
 52.We can take out the else part without any problems.The printed message is still the same.
 53. No it can't be a negative number because the number has to be greater than 0
+58.The first one was easier to understand.
