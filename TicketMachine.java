@@ -19,7 +19,7 @@ public class TicketMachine
     private int total;
     private int discount=10;
     private int saving=price*discount; 
-    private int count;
+    private int count=5;
     private int mean=total/count;
     /**
      * Create a machine that issues tickets of the given price.
