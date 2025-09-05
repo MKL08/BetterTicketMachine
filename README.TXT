@@ -22,3 +22,4 @@ How to start this project: Create one or more TicketMachine objects.
 58.The first one was easier to understand.
 59.Because the balance is not a setter.
 60.The blanace couldnt be set to 0.
+61.Theres "int" in front of the price. We can compile.The price is set to 0 because we place int.
