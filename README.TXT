@@ -1,3 +1,4 @@
+
 Project: better-ticket-machine
 Authors: David Barnes and Michael Kölling
 
@@ -20,3 +21,4 @@ How to start this project: Create one or more TicketMachine objects.
 53. No it can't be a negative number because the number has to be greater than 0
 58.The first one was easier to understand.
 59.Because the balance is not a setter.
+60.The blanace couldnt be set to 0.
