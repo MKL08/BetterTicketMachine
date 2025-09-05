@@ -98,10 +98,8 @@ else {
      * The balance is cleared.
      */
     public int refundBalance()
-    {
-        int amountToRefund;
-        amountToRefund = balance;
-        balance = 0;
-        return amountToRefund;
-    }
+{
+return balance;
+balance = 0;
+}
 }
