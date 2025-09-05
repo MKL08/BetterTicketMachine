@@ -30,7 +30,11 @@ int price = cost;
 balance = 0;
 total = 0;
 }
-
+public int emptyMachine() {
+    int oldTotal = total;
+    total = 0;
+    return oldTotal;
+}
     /**
      * @Return The price of a ticket.
      */
