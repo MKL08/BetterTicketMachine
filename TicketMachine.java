@@ -25,11 +25,11 @@ public class TicketMachine
      * Create a machine that issues tickets of the given price.
      */
     public TicketMachine(int cost)
-    {
-        price = cost;
-        balance = 0;
-        total = 0;
-    }
+{
+int price = cost;
+balance = 0;
+total = 0;
+}
 
     /**
      * @Return The price of a ticket.
@@ -98,8 +98,10 @@ else {
      * The balance is cleared.
      */
     public int refundBalance()
-{
-return balance;
-balance = 0;
-}
+    {
+        int amountToRefund;
+        amountToRefund = balance;
+        balance = 0;
+        return amountToRefund;
+    }
 }
