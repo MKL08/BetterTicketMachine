@@ -15,4 +15,5 @@ How to start this project: Create one or more TicketMachine objects.
 
 ******answer******:
 1.The balance does change 
+2.The feature is to draw the shape when its visible.
 
