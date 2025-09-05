@@ -21,6 +21,7 @@ public class TicketMachine
     private int saving=price*discount; 
     private int count=5;
     private int mean=total/count;
+    private int amountLeftToPay;
     /**
      * Create a machine that issues tickets of the given price.
      */
