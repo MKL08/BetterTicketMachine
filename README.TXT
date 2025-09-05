@@ -19,3 +19,4 @@ How to start this project: Create one or more TicketMachine objects.
 52.We can take out the else part without any problems.The printed message is still the same.
 53. No it can't be a negative number because the number has to be greater than 0
 58.The first one was easier to understand.
+59.Because the balance is not a setter.
